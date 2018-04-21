@@ -7,3 +7,4 @@ Plan / Project Components:
 2) research methods of web scraping (scrap.py python web scraper? JSON?)
 
 3) how to use databases with python
+
